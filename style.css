@@ -1,2 +1,13 @@
 html {
   background-color: #ff1770;
+<style>
+        p {
+            color: white;
+        }
+        .my-text {
+            color: white;
+        }
+        #unique-text {
+            color: white;
+        }
+    </style>
